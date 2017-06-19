@@ -2,6 +2,10 @@
 .jumbotron {
     background-color: #76232f;
     color: white;
+    font-family: 'Lato', sans-serif;       
+}
+.jumbotron p{
+    font-weight: lighter;
 }
 
 .btn-primary {
@@ -16,6 +20,7 @@
 
 h1 {
     font-family: 'Lato', sans-serif;
+    font-variant-caps: small-caps;
 }
 
 h2 {
@@ -23,10 +28,10 @@ h2 {
 }
 
 .row {
-    padding-bottom: 20px;
+    /**padding-bottom: 20px;
     border-bottom-width: 1px;
     border-bottom-color: #dddddd;
-    border-bottom-style: solid;
+    border-bottom-style: solid;**/
 }
 
 
@@ -37,7 +42,16 @@ h2 {
 
 .navbar-brand {
     color:white;
+    font-family: 'Lato', sans-serif;
+    font-weight: lighter;
+    font-variant-caps: all-small-caps;
 }
 .navbar-brand:hover{
     color:#FFA300;
 }
+
+.navbar {
+    background-color: #76232f;
+}
+
+
