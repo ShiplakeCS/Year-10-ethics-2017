@@ -1,0 +1,43 @@
+
+.jumbotron {
+    background-color: #76232f;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #FFA300;
+    border-color: #FFA200;
+}
+.btn-primary:hover {
+    background-color: white;
+    color: black;
+    border-color: #aaaaaa;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+}
+
+h2 {
+    font-family: 'Lato', sans-serif;
+}
+
+.row {
+    padding-bottom: 20px;
+    border-bottom-width: 1px;
+    border-bottom-color: #dddddd;
+    border-bottom-style: solid;
+}
+
+
+
+
+
+
+
+.navbar-brand {
+    color:white;
+}
+.navbar-brand:hover{
+    color:#FFA300;
+}
